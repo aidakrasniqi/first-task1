@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aidakrasniqi/first-task1.git/static/css/main.9769cfd9.css",
+    "main.js": "/aidakrasniqi/first-task1.git/static/js/main.7c087065.js",
+    "index.html": "/aidakrasniqi/first-task1.git/index.html",
+    "main.9769cfd9.css.map": "/aidakrasniqi/first-task1.git/static/css/main.9769cfd9.css.map",
+    "main.7c087065.js.map": "/aidakrasniqi/first-task1.git/static/js/main.7c087065.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9769cfd9.css",
+    "static/js/main.7c087065.js"
+  ]
+}
